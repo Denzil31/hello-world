@@ -2,6 +2,6 @@
 Testing Github
 
 Hello World!
-I am an IT Student.
+I play Dota 2.
 
 www.denzil.ooo
